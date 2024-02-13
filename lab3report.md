@@ -54,7 +54,7 @@
 
 ## Screenshot from the two inputs
 ### symptom of failure inputs
-
+![image](./fail1.jpg)
 ### success input but has bug
 
 ### Original code
